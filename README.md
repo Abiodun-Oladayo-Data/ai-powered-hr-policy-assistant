@@ -1,7 +1,5 @@
-# AI-powered-hr-policy-assistant
-AI-powered HR policy assistant built with LangChain, OpenAI, FAISS, and Gradio to provide document-grounded answers from company HR policy documents.
-
 # AI-Powered HR Policy Assistant
+AI-powered HR policy assistant built with LangChain, OpenAI, FAISS, and Gradio to provide document-grounded answers from company HR policy documents.
 
 ## Project Overview
 
